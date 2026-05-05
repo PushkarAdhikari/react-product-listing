@@ -45,10 +45,6 @@ react-product-listing/
 │   ├── components/
 │   │   ├── ProductCard.jsx
 │   │   ├── SkeletonCard.jsx
-│   │   └── SkeletonCard.css
-│   │
-│   ├── services/
-│   │   └── api.js
 │   │
 │   ├── App.jsx
 │   ├── main.jsx
