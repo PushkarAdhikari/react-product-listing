@@ -7,7 +7,7 @@ A modern and responsive **Product Listing Interface** built using **React + Vite
 ## 🚀 Live Demo
 
 🔗 **Deployed Link:**
-https://react-product-listing.vercel.app/
+https://react-product-listing-ten.vercel.app/
 
 📦 **GitHub Repository:**
 https://github.com/PushkarAdhikari/react-product-listing
